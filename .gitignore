@@ -1,5 +1,5 @@
 # MkDocs build directory
-# site/
+site/
 
 # Python-generated files
 __pycache__/
