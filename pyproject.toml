@@ -1,0 +1,12 @@
+[project]
+name = "mkdocs-processwire"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11.3"
+dependencies = [
+    "ghp-import>=2.1.0",
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.6.12",
+    "pymdown-extensions>=10.14.3",
+]

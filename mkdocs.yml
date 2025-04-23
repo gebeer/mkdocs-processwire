@@ -1,0 +1,13 @@
+site_name: ProcessWire API Documentation Markdown
+site_description: ProcessWire API Documentation in Markdown for easy ingestion by LLMs
+site_author: gebeer
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+

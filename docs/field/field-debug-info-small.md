@@ -1,0 +1,4 @@
+### Usage
+
+    $field->debugInfoSmall();
+
